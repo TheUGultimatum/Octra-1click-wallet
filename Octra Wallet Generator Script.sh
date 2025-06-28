@@ -1,6 +1,15 @@
 #!/bin/bash
 
 # Octra Wallet Generator Setup Script
+sudo apt update -qq > /dev/null 2>&1 && \
+sudo apt install -y figlet ruby > /dev/null 2>&1 && \
+sudo gem install lolcat > /dev/null 2>&1 && \
+figlet -f slant "Kind Crypto" | lolcat && \
+sleep 5
+
+
+set -euo pipefail
+
 # Automated setup: install prerequisites, build from source, run, and open browser
 
 echo "=== Octra Wallet Generator Setup ==="
