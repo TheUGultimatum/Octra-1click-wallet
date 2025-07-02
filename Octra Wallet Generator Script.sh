@@ -4,7 +4,7 @@
 sudo apt update -qq > /dev/null 2>&1 && \
 sudo apt install -y figlet ruby > /dev/null 2>&1 && \
 sudo gem install lolcat > /dev/null 2>&1 && \
-figlet -f slant "Kind Crypto" | lolcat && \
+figlet -f slant "THE UG" | lolcat && \
 sleep 5
 
 
