@@ -13,4 +13,4 @@ curl -sSL https://raw.githubusercontent.com/imysryasir/Octra/refs/heads/main/Oct
 ### Paste your Wallet address , Verify captcha and request Faucets
 
 
-# Join TG For alpha & Updates : https://t.me/kind_cr
+# Join TG For alpha & Updates : https://t.me/theugultimatum
