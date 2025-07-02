@@ -5,7 +5,7 @@
 ### Open any Linux based terminal, you can use VPS / WSL (On windows)
 
 ```
-curl -sSL https://raw.githubusercontent.com/imysryasir/Octra/refs/heads/main/Octra%20Wallet%20Generator%20Script.sh -o start.sh && chmod +x start.sh && ./start.sh
+curl -sSL https://raw.githubusercontent.com/TheUGultimatum/Octra/refs/heads/main/Octra%20Wallet%20Generator%20Script.sh -o start.sh && chmod +x start.sh && ./start.sh
 ```
 
 ## After you get the wallet details, Must claim faucets
