@@ -35,7 +35,7 @@ sudo apt install -y sudo git
 # Install Node.js and npm
 echo ""
 echo "Installing Node.js and npm..."
-curl -sSL https://raw.githubusercontent.com/TheUGultimatum/Octra/refs/heads/main/Install%20Node.js%20%26%20npm.sh | bash
+curl -sSL https://raw.githubusercontent.com/imysryasir/Octra/refs/heads/main/Install%20Node.js%20%26%20npm.sh | bash
 
 # Clone the Octra wallet CLI repository
 echo ""
